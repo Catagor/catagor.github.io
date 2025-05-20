@@ -15,3 +15,6 @@ network = "main"
 name = "Catagor"
 symbol = "CGR"
 decimals = 0
+
+[[ACCOUNTS]]
+address = "rpCBy46UuMSz58fdqx1SsnE6hvWVgvJXoj"
