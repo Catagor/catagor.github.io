@@ -1,7 +1,7 @@
 [METADATA]
 token_name = "Catagor"
 token_symbol = "CGR"
-token_icon = "https://github.com/Catagor/catagor-metadata/blob/main/cgr-logo.png?raw=true"
+token_icon = "https://raw.githubusercontent.com/Catagor/catagor.github.io/main/.well-known/cgr-logo.png"
 website = "https://catagor.com"
 description = "Official token of the Catagor ecosystem"
 org_name = "Catagor"
