@@ -1,1 +1,17 @@
+[METADATA]
+token_name = "Catagor"
+token_symbol = "CGR"
+token_icon = "https://github.com/Catagor/catagor-metadata/blob/main/cgr-logo.png?raw=true"
+website = "https://catagor.com"
+description = "Official token of the Catagor ecosystem"
+org_name = "Catagor"
+org_type = "business"
+org_website = "https://catagor.com"
 
+[[CURRENCIES]]
+code = "CGR"
+issuer = "rpCBy46UuMSz58fdqx1SsnE6hvWVgvJXoj"
+network = "main"
+name = "Catagor"
+symbol = "CGR"
+decimals = 0
