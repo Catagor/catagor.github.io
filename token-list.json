@@ -1,0 +1,23 @@
+{
+  "name": "Catagor Token List",
+  "timestamp": "2025-05-21T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "Catagor",
+      "symbol": "CGR",
+      "issuer": "rpCBy46UuMSz58fdqx1SsnE6hvWVgvJXoj",
+      "decimals": 0,
+      "description": "Official token of the Catagor ecosystem",
+      "icon": "https://raw.githubusercontent.com/Catagor/catagor.github.io/main/.well-known/cgr-logo.png",
+      "website": "https://catagor.com",
+      "social": {
+        "twitter": "https://twitter.com/catagor"
+      }
+    }
+  ]
+}
