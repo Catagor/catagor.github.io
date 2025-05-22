@@ -3,10 +3,17 @@ token_name = "Catagor"
 token_symbol = "CGR"
 token_icon = "https://raw.githubusercontent.com/Catagor/catagor.github.io/main/.well-known/cgr-logo.png"
 website = "https://catagor.com"
-description = "Official token of the Catagor ecosystem"
+description = "Catagor (CGR) is a utility token for the pet ecosystem facilitating commerce and tokenisation."
 org_name = "Catagor"
 org_type = "business"
 org_website = "https://catagor.com"
+email = "info@catagor.com"
+twitter = "https://x.com/catagorapp"
+github = "https://github.com/Catagor"
+token_type = "utility"
+org_address = "Australia"
+org_legal_form = "Pty Ltd"
+token_list = "https://catagor.github.io/xrpl-tokenlist.json"
 
 [[CURRENCIES]]
 code = "CGR"
@@ -15,6 +22,7 @@ network = "main"
 name = "Catagor"
 symbol = "CGR"
 decimals = 0
+description = "Catagor (CGR) is a utility token for the pet ecosystem facilitating commerce and tokenisation."
 
-[[ACCOUNTS]]
-address = "rpCBy46UuMSz58fdqx1SsnE6hvWVgvJXoj"
+[account."rpCBy46UuMSz58fdqx1SsnE6hvWVgvJXoj"]
+AccountName = "Catagor"
