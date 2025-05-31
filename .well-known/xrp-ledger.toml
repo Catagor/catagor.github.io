@@ -24,5 +24,6 @@ symbol = "CGR"
 decimals = 0
 description = "Catagor (CGR) is a utility token for the pet ecosystem facilitating commerce and tokenisation."
 
-[account."rpCBy46UuMSz58fdqx1SsnE6hvWVgvJXoj"]
-AccountName = "Catagor"
+[[ACCOUNTS]]
+address = "rpCBy46UuMSz58fdqx1SsnE6hvWVgvJXoj"
+name = "Catagor"
