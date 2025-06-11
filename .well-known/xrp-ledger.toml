@@ -3,7 +3,7 @@ token_name = "Catagor"
 token_symbol = "CGR"
 token_icon = "https://catagor.github.io/.well-known/cgr-logo.png"
 website = "https://catagor.com"
-description = "Catagor (CGR) is a utility token for the pet ecosystem facilitating rewards, commerce and tokenisation."
+description = "Catagor (CGR) is a utility token for the pet ecosystem facilitating rewards, commerce, and tokenisation."
 org_name = "Catagor"
 org_type = "business"
 org_website = "https://catagor.com"
@@ -23,6 +23,7 @@ name = "Catagor"
 symbol = "CGR"
 decimals = 0
 description = "Catagor (CGR) is a utility token for the pet ecosystem facilitating commerce and tokenisation."
+logo = "https://catagor.github.io/.well-known/cgr-logo.png"
 
 [[ACCOUNTS]]
 address = "rpCBy46UuMSz58fdqx1SsnE6hvWVgvJXoj"
