@@ -1,7 +1,7 @@
 [METADATA]
 token_name = "Catagor"
 token_symbol = "CGR"
-token_icon = "https://catagor.github.io/.well-known/cgr-logo.png"
+token_icon = "https://catagor.github.io/.well-known/cgr-logo-64.png"  # ✅ 64x64 logo for wallets
 website = "https://catagor.com"
 description = "Catagor (CGR) is a utility token for the pet ecosystem facilitating rewards, commerce, and tokenisation."
 org_name = "Catagor"
@@ -23,8 +23,8 @@ name = "Catagor"
 symbol = "CGR"
 decimals = 0
 description = "Catagor (CGR) is a utility token for the pet ecosystem facilitating commerce and tokenisation."
-logo = "https://catagor.github.io/.well-known/cgr-logo.png"
-fixed_supply = true  # ✅ ← THIS is the critical missing line
+logo = "https://catagor.github.io/.well-known/cgr-logo.png"  # ✅ High-res for explorers
+fixed_supply = true
 
 [[ACCOUNTS]]
 address = "rpCBy46UuMSz58fdqx1SsnE6hvWVgvJXoj"
