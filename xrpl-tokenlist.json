@@ -12,11 +12,11 @@
       "symbol": "CGR",
       "issuer": "rpCBy46UuMSz58fdqx1SsnE6hvWVgvJXoj",
       "decimals": 0,
-      "description": "Official token of the Catagor ecosystem",
-      "icon": "https://raw.githubusercontent.com/Catagor/catagor.github.io/main/.well-known/cgr-logo.png",
+      "description": "Catagor (CGR) is the official utility token for the pet ecosystem — enabling rewards, commerce, and tokenisation.",
+      "icon": "https://catagor.github.io/.well-known/cgr-logo.png",
       "website": "https://catagor.com",
       "social": {
-        "twitter": "https://twitter.com/catagor"
+        "twitter": "https://twitter.com/catagorcoin"
       }
     }
   ]
